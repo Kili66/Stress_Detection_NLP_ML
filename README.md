@@ -6,8 +6,9 @@ The model will be trained on a dataset of text data, where each data point is la
 
 #### The project will use the following steps:
 
-1- Data collection: The first step is to collect a dataset of text data, where each data point is labeled as either "stressed" or "not stressed". This data can be collected from a variety of sources, such as social media, online forums, or surveys.
-2- Data cleaning: Once the data is collected, it needs to be cleaned to remove any noise or irrelevant information. This includes removing stop words, punctuation, and HTML tags.
-3- Feature extraction: The next step is to extract features from the text data. Features can be extracted using a variety of NLP techniques, such as word frequency, sentiment analysis, and topic modeling.
-4- Model training: Once the features have been extracted, the model can be trained. The model will be trained on the labeled dataset, so that it can learn to associate the features with the labels.
-5- Model evaluation: Once the model is trained, it needs to be evaluated on a held-out test set. This will help to assess the performance of the model and to identify any areas where it can be improved.
+* Data collection: The first step is to collect a dataset of text data, where each data point is labeled as either "stressed" or "not stressed". This data can be collected from a variety of sources, such as social media, online forums, or surveys.
+* Data cleaning: Once the data is collected, it needs to be cleaned to remove any noise or irrelevant information. This includes removing stop words, punctuation, and HTML tags.
+
+* Feature extraction: The next step is to extract features from the text data. Features can be extracted using a variety of NLP techniques, such as word frequency, sentiment analysis, and topic modeling.
+* Model training: Once the features have been extracted, the model can be trained. The model will be trained on the labeled dataset, so that it can learn to associate the features with the labels.
+* Model evaluation: Once the model is trained, it needs to be evaluated on a held-out test set. This will help to assess the performance of the model and to identify any areas where it can be improved.
